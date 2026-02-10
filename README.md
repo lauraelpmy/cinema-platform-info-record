@@ -12,4 +12,4 @@
 说明：
 本概览内容用于汇总影视网站的公开信息，仅供查询参考。
 
-cinema-platform-info-record
+Site notes: https://lauraelpmy.github.io/cinema-platform-info-record/
